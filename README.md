@@ -56,10 +56,10 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/salah-alkhatib-111689355" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="49" height="28" alt="linkedin logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="59" height="28" alt="linkedin logo" />
   </a>
   <a href="https://mail.google.com/mail/?view=cm&to=salahalkhatib000@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="49" height="28" alt="gmail logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="59" height="28" alt="gmail logo" />
   </a>
 </div>
 
